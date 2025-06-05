@@ -1,3 +1,5 @@
+import { add, substract, division, multiply } from "./calculator";
+
 test("Addition of two numbers correctly", () => {
   expect(add(1, 2)).toBe(3);
 });

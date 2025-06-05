@@ -1,0 +1,18 @@
+#Node modules
+node_modules/
+
+# Jest coverage reports
+coverage/
+
+# Logs and environment files
+*.log
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode
+.idea/
+*.swp
